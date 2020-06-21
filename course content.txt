@@ -1,0 +1,20 @@
+Course Contents ??(0:00) 1. Introduction
+ (4:31) 2. Setting things up - HTML
+ (9:03) 3. The Header Area - HTML
+ (14:02) 4. Intro Section
+ (19:56) 5. About me, Work and Footer - HTML
+ (28:39) 6. Setting up the Custom Properties and General Styles
+ (39:22) 7. Styling the titles and subtitles
+ (43:38) 8. Setting up the intro section
+ (55:57) 9. Styling the services section
+ (1:08:50) 10. The About Me Section
+ (1:19:52) 11. The Portfolio
+ (1:28:40) 12. Adding the Social Icons with Font Awesome
+(1:31:39) 13. Styling the Footer
+ (1:37:26) 14. Setting up the Navigation Styles
+(1:44:24) 15. Creating the Hamburger
+ (1:51:17) 16. Adding the JS
+ (2:00:29) 17. Creating the Portfolio Item Page
+ (2:06:42) 18. Customizing Your Page
+ (2:08:45) 19. DigitalOcean Droplets - What they are and how to set one up
+ (2:19:02) 20. DigitalOcean Droplets - Uploading files via FTP
